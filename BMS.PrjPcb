@@ -28,7 +28,7 @@ DItemRevisionGUID=
 ReportSuppressedErrorsInMessages=0
 FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
-OutputPath=Project Outputs for BMS
+OutputPath=
 LogFolderPath=
 ManagedProjectGUID=
 LinkedManagedProjectGUID=
@@ -314,82 +314,62 @@ DocumentPath=Project Outputs for BMS\NC Drill\BMS.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for Free Documents\NC Drill\BMS.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument3]
 DocumentPath=Project Outputs for BMS\Gerber\BMS.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument4]
-DocumentPath=Project Outputs for Free Documents\Gerber\BMS.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument5]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for BMS\Gerber\BMS.G1
 DItemRevisionGUID=
 
-[GeneratedDocument6]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for BMS\Gerber\BMS.G2
 DItemRevisionGUID=
 
-[GeneratedDocument7]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for BMS\Gerber\BMS.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument8]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for BMS\Gerber\BMS.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument9]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for BMS\Gerber\BMS.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument10]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for BMS\Gerber\BMS.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument11]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for BMS\Gerber\BMS.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument12]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for BMS\Gerber\BMS.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument13]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for BMS\Gerber\BMS.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument14]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for BMS\NC Drill\BMS.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument15]
-DocumentPath=Project Outputs for Free Documents\NC Drill\BMS.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument16]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for BMS\Gerber\BMS.REP
 DItemRevisionGUID=
 
-[GeneratedDocument17]
-DocumentPath=Project Outputs for Free Documents\Gerber\BMS.REP
-DItemRevisionGUID=
-
-[GeneratedDocument18]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for BMS\Gerber\BMS.RUL
 DItemRevisionGUID=
 
-[GeneratedDocument19]
-DocumentPath=Project Outputs for Free Documents\Gerber\BMS.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument20]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for BMS\NC Drill\BMS.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument21]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for BMS\Design Rule Check - BMS.html
 DItemRevisionGUID=
 
@@ -439,7 +419,7 @@ SCH_HasExpandLogicalToPhysicalSheets=-1
 SaveSettingsToOutJob=0
 
 [Generic_EDE]
-OutputDir=Project Outputs for BMS
+OutputDir=
 
 [OutputGroup1]
 Name=Netlist Outputs
